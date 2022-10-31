@@ -1,4 +1,4 @@
-package pertambahanduaangka;
+package gui;
 
 import javax.swing.JOptionPane;
 
